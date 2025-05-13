@@ -13,6 +13,11 @@ This repository provides a systematic benchmarking framework to evaluate the rob
 
 ## Getting Started
 
+
+### Instructions
+
+All experiments can be run through associates notebooks under the models folder
+
 ### Prerequisites
 - Python 3.8+  
 - pip  
@@ -29,6 +34,3 @@ python -m venv env
 source env/bin/activate      # Linux/macOS
 env\Scripts\activate         # Windows
 
-###Instructions
-
-All experiments can be run through associate notebooks found under models/
