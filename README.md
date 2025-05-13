@@ -28,3 +28,7 @@ cd TimeSeriesAnalysis
 python -m venv env
 source env/bin/activate      # Linux/macOS
 env\Scripts\activate         # Windows
+
+###Instructions
+
+All experiments can be run through associate notebooks found under models/
